@@ -10,7 +10,7 @@ Content-Type: application/json
   "lname": "Admin",
   "email": "admin@example.com",
   "gender": "male",
-  "role": admin
+  "role": "admin"
 }
 ```
 Then we just hit the endpoint to get the flag
