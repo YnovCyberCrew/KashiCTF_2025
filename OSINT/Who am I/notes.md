@@ -3,7 +3,7 @@
 You've stumbled upon a bustling street with political posters. Find out after which politician this road is named.
 ![Road to find](Road_Not_Taken.jpg)
 
-In the picture we can see a logo that is hidden by the poster of Dr.Tatar, but we can recognise the first part of the logo of Duna Hotel franchise.
+In the picture we can see a logo that is hidden by the poster of Dr.Tatar, but we can recognise the first part of the logo of Duna Hotel franchise in budapest.
 
 However we find more then 20 of them in budapest based on the writings, so, to adjust my research I added in google maps bazilika that is mentioned in the email address shown.
 
